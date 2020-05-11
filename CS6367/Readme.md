@@ -3,9 +3,8 @@
 
 CS 6367.001 - Software Testing, Validation and Verification - S20
 
-Project Phase-1
 
-Team Members:<br/>Ekansh Goyal (EXG180021)<br/>Avani Sah (AXS180221)<br/>Aarya Vardhan Reddy Paakaala (AXP170019)<br/>Vinyas Raju (VXR170005)
+Team Members:<br/>Ekansh Goyal <br/>Avani Sah <br/>Aarya Vardhan Reddy Paakaala <br/>Vinyas Raju 
 
 ## Usage
 

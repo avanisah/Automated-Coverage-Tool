@@ -1,0 +1,12 @@
+
+Project Names
+commons-lang : https://github.com/apache/commons-lang
+asciidoctor : https://github.com/asciidoctor/asciidoctor-maven-plugin
+brickhouse : https://github.com/klout/brickhouse
+geo : https://github.com/davidmoten/geo 
+hivemall : https://github.com/myui/hivemall
+deft : https://github.com/rschildmeijer/deft
+lookup : https://github.com/axet/lookup
+natty : https://github.com/joestelmach/natty
+protonpack : https://github.com/poetix/protonpack
+compile-testing : https://github.com/google/compile-testing
